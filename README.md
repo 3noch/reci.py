@@ -1,8 +1,11 @@
-recipy
-======
+reci.py
+=======
 
-Build
------
+Compare `reci.py` and `new-reci.py` for some FP-oriented improvements. The goal is usually gaining referential
+transparency.
+
+Run
+---
 
 ```bash
 pip install -r requirements.txt
